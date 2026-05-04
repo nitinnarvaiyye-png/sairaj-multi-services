@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sairaj Multi Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background: #003366;
+            color: white;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        .services {
+            background: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        footer {
+            background: #003366;
+            color: white;
+            padding: 15px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: green;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Sairaj Multi Services</h1>
+    <p>Serving All Maharashtra | Online Government Services</p>
+</header>
+
+<section>
+    <h2>Our Services</h2>
+    <div class="services">
+        <p>✔ Online Forms</p>
+        <p>✔ PF Services</p>
+        <p>✔ PAN Card</p>
+        <p>✔ Passport Services</p>
+        <p>✔ Railway / Bus / Flight Booking</p>
+        <p>✔ GST Registration</p>
+        <p>✔ Income Certificate</p>
+        <p>✔ Many More Services...</p>
+    </div>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>Nitin B Narvaiye</p>
+    <p>📞 9765419185</p>
+    <p>📍 Jalna, Maharashtra</p>
+    <a class="btn" href="https://wa.me/919765419185">WhatsApp Now</a>
+</section>
+
+<footer>
+    <p>© 2026 Sairaj Multi Services</p>
+</footer>
+
+</body>
+</html>
